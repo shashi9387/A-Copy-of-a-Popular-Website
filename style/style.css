@@ -1,0 +1,15 @@
+body {
+  background-color: #ced8d8;
+}
+hr {
+  border-style: none;
+  border-top: rgba(74, 177, 82, 0.842);
+  border-top-style: dashed;
+  border-width: 5px;
+  width: 50%;
+}
+h1,
+h2,
+h3 {
+  color: #0f3b17;
+}
